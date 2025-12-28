@@ -1,0 +1,6 @@
+🛠 Common Scroll Wheel Failure Issue:
+The mouse scroll wheel uses a mechanical rotary encoder to detect scroll movement. 
+These encoders typically have a lifespan of around 5 million cycles. After extensive usage, 
+the internal contacts wear out, leading to scroll skipping, jitter, or complete failure 
+When this occurs, the most reliable fix is to replace the rotary encoder with a new unit 
+rather than attempting to repair the worn contacts.
