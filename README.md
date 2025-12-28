@@ -1,6 +1,6 @@
 <h2>🖱 Mouse PCB Teardown & Sensor Identification</h2>
 
-<p>This repository contains high-quality images and documentation of a wireless mouse PCB.  
+<p>This repository contains documentation of a wireless mouse PCB.  
 The board includes components such as the scroll encoder slot, tactile switches, Type-C charging interface + PC wired contol , LED indicators, a primary IC controller, and the BT/2.4G module PCB.  
 Useful for reverse-engineering, hobby repairs, or understanding peripheral electronics.</p>
 
